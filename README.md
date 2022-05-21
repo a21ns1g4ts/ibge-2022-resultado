@@ -1,24 +1,7 @@
 # ibge-2022-resultado
 
-## Project setup
-```
-npm install
-```
+## Concurso IBGE-2022
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Resultado final do concurso do IBGE 2022 divulgado pela FGV
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://ibge-2022-resultado.netlify.app
